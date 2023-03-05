@@ -1,0 +1,41 @@
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe.config
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Properties.Resources.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_istatistik.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.FrmAnaForm.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Grafikler.resources
+C:\Users\90536\Desktop\A-Z'yeC#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Giris.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe.config
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.FrmAnaForm.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Giris.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Grafikler.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_istatistik.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Properties.Resources.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe.config
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\bin\Debug\Proje_Personel.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.FrmAnaForm.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Giris.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_Grafikler.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Frm_istatistik.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.Properties.Resources.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\YÜKLENECEK\Proje_Personel\Proje_Personel\obj\Debug\Proje_Personel.pdb
